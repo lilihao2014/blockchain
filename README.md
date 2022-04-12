@@ -6,5 +6,6 @@
 
 [Polygon Architecture](https://docs.polygon.technology/docs/home/architecture/polygon-architecture/)
 # Skale Network
-[Whitepaper](https://skale.network/whitepaper) 
+[Whitepaper](https://skale.network/whitepaper)
+
 [What is Skale Network](https://www.youtube.com/watch?v=-7H0BR5OTsQ&t=165s)
