@@ -8,4 +8,6 @@
 # Skale Network
 [Whitepaper](https://skale.network/whitepaper)
 
-[What is Skale Network](https://www.youtube.com/watch?v=-7H0BR5OTsQ&t=165s)
+[Offical Youtube Channel](https://www.youtube.com/c/SKALE)
+
+[What is Skale Network(Youtube)](https://www.youtube.com/watch?v=-7H0BR5OTsQ&t=165s)
